@@ -7,18 +7,22 @@ A user is unable to log into their workstation despite entering what they believ
 Windows 10, local user account
 
 ## Investigation
-- Observed repeated failed login attempts
-- Checked for keyboard input issues (Caps Lock)
-- Tested login with another account to isolate the issue
+- Observed multiple failed login attempts
+- Checked for Caps Lock and keyboard input issues
+- Attempted login using another account to isolate the issue
 
 ## Diagnosis
-Incorrect password input caused authentication failure.
+The issue was caused by incorrect password input, resulting in authentication failure.
 
 ## Action Taken
-Reset the user password through account settings and verified proper credential entry.
+Reset the user password through account settings and ensured proper credential entry.
+
+## Validation
+- Successfully logged into the system using updated credentials
+- Confirmed no further login errors occurred
 
 ## Result
-User successfully logged into the system.
+User regained access to their workstation and resumed normal use.
 
 ## Reflection
-Authentication issues are often related to user input errors, but verification steps are necessary before making changes.
+Authentication issues are often related to user input errors, but proper validation ensures the issue is fully resolved.
