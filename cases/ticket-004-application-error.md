@@ -1,4 +1,4 @@
-# Case 004 - Application Launch Failure
+# Ticket 004 - Application Launch Failure
 
 ## Scenario
 A user is unable to open a required application.
