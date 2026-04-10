@@ -19,12 +19,12 @@ Excessive background applications were consuming system resources.
 - Disabled non-essential startup programs
 - Restarted system
 
+## Validation
+- Observed reduced CPU and memory usage in Task Manager
+- System responsiveness improved after restart
+
 ## Result
 System performance improved significantly.
 
 ## Reflection
 Performance issues are commonly caused by resource overload and can often be resolved through system optimization.
-
-## Validation
-- Observed reduced CPU and memory usage in Task Manager
-- System responsiveness improved after restart
