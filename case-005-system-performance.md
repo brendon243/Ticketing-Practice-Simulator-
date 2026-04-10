@@ -26,5 +26,5 @@ System performance improved significantly.
 Performance issues are commonly caused by resource overload and can often be resolved through system optimization.
 
 ## Validation
-- Application launched successfully after reinstall
-- No further errors observed during use
+- Observed reduced CPU and memory usage in Task Manager
+- System responsiveness improved after restart
